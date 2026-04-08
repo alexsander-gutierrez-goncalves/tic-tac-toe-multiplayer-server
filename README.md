@@ -1,5 +1,7 @@
 # Tic Tac Toe Server
-Código do backend para o jogo [Tic Tac Toe Multiplayer](https://github.com/Alex5ander/tic-tac-toe-multiplayer) desenvolvido em Node JS e utilizando 
+Código do jogo [Tic Tac Toe Multiplayer](https://github.com/Alex5ander/tic-tac-toe-multiplayer).
+
+Servidor desenvolvido em Node JS e utilizando 
 [Socket.io](https://socket.io/).
 
 ## Logs do servidor em produção
